@@ -1,5 +1,5 @@
 import React,{ useState,useEffect } from 'react';
-import {Container,Row,Col, Image} from 'react-bootstrap';
+import {Container} from 'react-bootstrap';
 import { person } from './data';
 import DatesCount from './components/DatesCount';
 import DataList from './components/DataList';
